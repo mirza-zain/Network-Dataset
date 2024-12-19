@@ -11,7 +11,6 @@ This repository contains network capture data collected using Wireshark. The dat
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -75,10 +74,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
     git push origin feature-branch
     ```
 5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
